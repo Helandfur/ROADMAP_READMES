@@ -1,12 +1,12 @@
 Generated markdown
-# Project TrAI: Development Roadmap (Summarization of README's to-do list, in to-do all was written as is.)
+# Project Helios Evi: Development Roadmap (Summarization of README's to-do list, in to-do all was written as is.)
 
 ---
 > *A note on scope: This roadmap is deeply interconnected with the overarching concept of **EVI (Emotional Virtual Intelligence)**. The goal is not just to build a product, but to architect a pathway toward a new tier of artificial companionship.*
 ---
 
 ### Vision:
-**TrAI** aims to become the premier **Highly Evaluative Learnable Interactive Omnipotent Structure of Emotional Virtual Intelligence**. This document outlines the step-by-step journey to achieve that vision, evolving from a robust conversational agent into a true AI companion.
+**EVI** aims to become the premier **Highly Evaluative Learnable Interactive Omnipotent Structure of Emotional Virtual Intelligence**. This document outlines the step-by-step journey to achieve that vision, evolving from a robust conversational agent into a true AI companion.
 
 **Core Concept:** A Companion, Friend, Partner, and Colleague as a Modular System.
 
