@@ -1,4 +1,3 @@
-Generated markdown
 # Project Helios Evi: Development Roadmap (Summarization of README's to-do list, in to-do all was written as is.)
 
 ---
